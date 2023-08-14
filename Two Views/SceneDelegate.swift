@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Two Views
 //
-//  Created by Назар on 14.08.2023.
+//  Created by Olzhas on 14.08.2023.
 //
 
 import UIKit
